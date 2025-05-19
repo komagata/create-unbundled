@@ -8,6 +8,9 @@
     ".": "./src/index.js"
   },
   "browser": "./src/index.js",
+  "scripts": {
+    "test": "node --test test/index.test.js"
+  },
   "keywords": [],
   "author": "",
   "license": "MIT"

@@ -6,6 +6,10 @@
     "create-unbundled": "./index.js"
   },
   "type": "module",
+  "scripts": {
+    "test": "node test/index.test.js"
+  },
   "keywords": ["npm-init", "template", "browser", "esm", "unbundled"],
+  "author": "Masaki Komagata",
   "license": "MIT"
 }
