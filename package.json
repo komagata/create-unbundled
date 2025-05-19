@@ -1,0 +1,11 @@
+{
+  "name": "create-unbundled",
+  "version": "0.1.0",
+  "description": "A simple npm initializer for unbundled browser JavaScript libraries",
+  "bin": {
+    "create-unbundled": "./index.js"
+  },
+  "type": "module",
+  "keywords": ["npm-init", "template", "browser", "esm", "unbundled"],
+  "license": "MIT"
+}

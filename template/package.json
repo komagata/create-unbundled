@@ -1,0 +1,14 @@
+{
+  "name": "my-unbundled-lib",
+  "version": "0.1.0",
+  "description": "A minimal unbundled JS library for browsers",
+  "type": "module",
+  "main": "./src/index.js",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "browser": "./src/index.js",
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
